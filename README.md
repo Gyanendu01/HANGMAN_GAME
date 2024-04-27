@@ -6,13 +6,13 @@ Welcome to Hangman! This is a simple command-line implementation of the classic 
 
 1. Clone or download this repository to your local machine.
 2. Navigate to the directory containing the game files.
-3. Run the `hangman.py` script in your terminal.
-4. You will be presented with a series of underscores representing the letters of a randomly chosen word.
-5. Guess letters one by one by typing them into the terminal and pressing Enter.
-6. If your guessed letter is in the word, it will be revealed in its correct positions.
-7. If your guessed letter is not in the word, a part of the Hangman will be drawn.
-8. Keep guessing letters until you either guess the entire word or the Hangman is fully drawn.
-9. You have 6 lives to complete the game. Each incorrect guess results in losing a life.
+3. Run the `main.py` script in your terminal.
+5. You will be presented with a series of underscores representing the letters of a randomly chosen word.
+6. Guess letters one by one by typing them into the terminal and pressing Enter.
+7. If your guessed letter is in the word, it will be revealed in its correct positions.
+8. If your guessed letter is not in the word, a part of the Hangman will be drawn.
+9. Keep guessing letters until you either guess the entire word or the Hangman is fully drawn.
+10. You have 6 lives to complete the game. Each incorrect guess results in losing a life.
 
 ## Features
 
